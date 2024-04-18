@@ -1,0 +1,2 @@
+Chesskoban is a Puzzle game with the combination of Chess mechanics and Sokoban game for chess lovers and beginners.
+You will control the white horses, needing to reposition them to capture the black horses.

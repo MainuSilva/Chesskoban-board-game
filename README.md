@@ -1,0 +1,5 @@
+# FEUP-IA
+
+- Chesskoban é um jogo para um único jogador que mistura elementos de uma partida de xadrez com um quebra-cabeça de empurrar blocos. Ambientado em um tabuleiro de xadrez, o objetivo é usar seu rei para empurrar os cavalos brancos para posições onde possam "capturar" os cavalos pretos, seguindo as regras dos movimentos do xadrez. A vitória é alcançada quando os cavalos brancos estão estrategicamente posicionados para "dar xeque" em todos os cavalos pretos usando seus movimentos clássicos em forma de L.
+
+- O projeto é uma implementação computacional do Chesskoban utilizando a biblioteca Pygame do Python. O programa permite que os jogadores movam o rei e os cavalos de acordo com as regras do jogo, indicando quando a vitória é alcançada. Além disso, existem múltiplos níveis de dificuldade do tabuleiro e uma interface de usuário intuitiva.
